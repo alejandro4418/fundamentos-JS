@@ -11,8 +11,8 @@ Este repositorio contiene la resolución del Laboratorio 3: **Introducción a Ja
 ## 👥 Integrantes y División de Tareas
 El trabajo fue dividido equitativamente para cubrir todos los temas solicitados en la guía:
 
-| Integrante | Temas Asignados | Archivo / Ubicación |
-| :--- | :--- | :--- |
+| Integrante |
+| :--- | 
 | **Alejandro Aguirre
 | **Diego Almeida
 | **Briander Verdezoto

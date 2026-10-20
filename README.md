@@ -17,11 +17,6 @@ El trabajo fue dividido equitativamente para cubrir todos los temas solicitados 
 | Diego Almeida
 | Briander Verdezoto
 
-## 🛠️ Tecnologías y Conceptos Aplicados
-*   **HTML5:** Estructura básica para la carga del entorno web.
-*   **JavaScript (ES6+):** Lógica de programación, manejo de estructuras de datos y manipulación del navegador.
-*   **Git & GitHub:** Control de versiones y alojamiento del repositorio.
-
 ## 🔗 Enlaces del Proyecto
 *   **Repositorio de GitHub:** [https://github.com/TU_USUARIO/fundamentos-JS](https://github.com/alejandro4418/fundamentos-JS.git)
 *   **Página de referencia:** [Skyfear en Game Jolt](https://gamejolt.com/games/Skyfear/1061300)
